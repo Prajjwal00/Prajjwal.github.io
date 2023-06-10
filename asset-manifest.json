@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Prajjwal/static/css/main.3ccd839f.css",
+    "main.js": "/Prajjwal/static/js/main.384f3729.js",
+    "static/media/pro2.jpg": "/Prajjwal/static/media/pro2.9c8bc3ddd54f53705e93.jpg",
+    "static/media/pro1.jpg": "/Prajjwal/static/media/pro1.2d0f66206ca6e15a2d7a.jpg",
+    "static/media/react2.jpg": "/Prajjwal/static/media/react2.9bac10b94a0fc57f26b6.jpg",
+    "static/media/pro3.jpg": "/Prajjwal/static/media/pro3.be9201c157f15c54f403.jpg",
+    "static/media/react1.jpg": "/Prajjwal/static/media/react1.cb522a99f4f45b5ffa6f.jpg",
+    "static/media/intro_2_bg.jpg": "/Prajjwal/static/media/intro_2_bg.e30ce1875c34762fdef9.jpg",
+    "index.html": "/Prajjwal/index.html",
+    "main.3ccd839f.css.map": "/Prajjwal/static/css/main.3ccd839f.css.map",
+    "main.384f3729.js.map": "/Prajjwal/static/js/main.384f3729.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ccd839f.css",
+    "static/js/main.384f3729.js"
+  ]
+}
